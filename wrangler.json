@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "royal-snowflake-06fc",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b64b5ad9-4cb5-4e02-b22a-5f3b4c3967cb",
+      "database_name": "curly-cake-4546-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
